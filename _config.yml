@@ -7,7 +7,7 @@
 ### Site Settings ###
 title               : IS445 Jekyll Template 
 description         : >-
-                      I am definitely not a corgi!
+                      I am Rekha! Click on Projects to see my HW6
 baseurl             : ""   # Change to empty quotes if you are hosting your site at <your-username>.github.io directly,
 #                                             otherwise will be hosted at <your-username>.github.io/{{base_url}}
 repository          :                     # Change to <your-username> for github OR, if that doesn't work <your-username>/<your-username>.github.io (or remove it if you don't need remote projects) -- for example, I would put "jnaiman" without the quotes after the ":" here
@@ -35,7 +35,7 @@ nav_exclude:                                            # The following paths ar
 ### Author Info ###
 author:
   name              : A. P. Corgi
-  image             : https://media.tenor.com/8RcIoWTKYR4AAAAe/scuze-corgi.png
+#  image             : https://media.tenor.com/8RcIoWTKYR4AAAAe/scuze-corgi.png
 #  behance           : your_username
 # dribbble          : your_username
   email             : username@domain.com
