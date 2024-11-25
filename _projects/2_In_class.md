@@ -40,5 +40,6 @@ Interactivity is incorporated through tooltips, which offer a dynamic way to exp
 </div>
 
 <div class="right">
-{% include elements/button.html link="https://github.com/your_username/your_repo/blob/main/building_analysis.ipynb" text="The Analysis" %}
+{% include elements/button.html link="https://github.com/rekha-kandukuri/rekha-kandukuri.github.io/blob/main/python_notebooks/hw6.ipynb" text="The Analysis" %}
 </div>
+
